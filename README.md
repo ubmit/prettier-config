@@ -2,19 +2,21 @@
 
 > My personal [Prettier](https://prettier.io) config 💫
 
-## Usage
-
-**Install**:
+## Installation:
 
 ```sh
-npm i -D @guilhermedeandrade/prettier-config
+pnpm add -D @guilhermedeandrade/prettier-config
+```
+
+```sh
+npm add -D @guilhermedeandrade/prettier-config
 ```
 
 ```sh
 yarn add -D @guilhermedeandrade/prettier-config
 ```
 
-**Usage**:
+## Usage:
 
 On the root of the repository you want to use this configuration:
 
