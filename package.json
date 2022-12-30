@@ -1,9 +1,13 @@
 {
   "name": "@guilhermedeandrade/prettier-config",
   "version": "1.0.0",
+  "prettier": "@guilhermedeandrade/prettier-config",
   "description": "My personal Prettier config",
-  "main": "index.json",
-  "repository": "git@github.com:guilhermedeandrade/prettier-config.git",
+  "main": ".prettierrc.js",
+  "repository": "git@github.com:ubmit/prettier-config.git",
   "author": "Guilherme de Andrade <guilhermedeandrade@protonmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "prettier-plugin-multiline-arrays": "^1.1.2"
+  }
 }
